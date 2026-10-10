@@ -9,7 +9,12 @@ header{
     padding: 25px 50px;
     text-align: center;
 }
-
+.logo{
+  gap: 12px;
+}
+.logo img{
+    height: 100px;
+}
 nav a{
     color: white;
     text-decoration: none;
